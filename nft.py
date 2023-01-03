@@ -26,6 +26,7 @@ def parse_config():
 
     # Loop through all layers defined in CONFIG
     for layer in CONFIG:
+        print(layer)
 
         # Go into assets/ to look for layer folders
         layer_path = os.path.join(assets_path, layer['directory'])
@@ -161,7 +162,7 @@ def generate_images(edition, count, drop_dup=True):
         os.makedirs(op_path)
       
     # Create the images
-    for n in progressbar(range(count)):
+    for n in (range(count)):
         
         # Set image name
         image_name = str(n).zfill(zfill_count) + '.png'

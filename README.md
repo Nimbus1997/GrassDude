@@ -1,6 +1,6 @@
 # Generative NFT Art
-## idea bank(Jieun, Eunhea, Wonkyeong)'s first NFT!! - GrsssDude
-## generated our NFTs using the public code by 'https://github.com/rounakbanik/generative-art-nft.git'
+### idea bank(Jieun, Eunhea, Wonkyeong)'s first NFT!! - GrsssDude  
+generated our NFTs using the public code by 'https://github.com/rounakbanik/generative-art-nft.git'
 
 Below is the Introduction of the original repository. 
 ---
